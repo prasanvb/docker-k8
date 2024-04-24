@@ -1,3 +1,5 @@
+.DS_Store
+
 L09-05 Docker Compose - Sample App/result/dotnet/Result/obj/Debug/netcoreapp2.1/project.razor.json
 L09-05 Docker Compose - Sample App/result/dotnet/Result/obj/Debug/netcoreapp2.1/Result.assets.cache
 L09-05 Docker Compose - Sample App/result/dotnet/Result/obj/Debug/netcoreapp2.1/Result.csproj.AssemblyReference.cache
