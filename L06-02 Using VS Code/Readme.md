@@ -22,7 +22,7 @@ Point your browser to `http://localhost:3000`
 
 ## List the containers running
 
-Click on the Docker icon in the left menu.  You'll be able to see the imahe you just built and the instance that is running.
+Click on the Docker icon in the left menu.  You'll be able to see the image you just built and the instance that is running.
 
 ## Stop the instance
 
