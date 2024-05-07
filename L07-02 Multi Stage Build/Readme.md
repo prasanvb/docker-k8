@@ -26,7 +26,7 @@ In the terminal, type the following commands:
 
 ## Display using the app
 
-Point your browser to http://localhost:8080
+Point your browser to `http://localhost:8080`
 
 ## Cleanup
 
